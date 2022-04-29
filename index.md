@@ -1,5 +1,6 @@
 ---
 layout: home
+use_math: true
 ---
 
-Hi.
+Hi. $$\int$$
