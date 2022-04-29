@@ -7,5 +7,3 @@ Hi.
 
 
 $\int$
-
-test
